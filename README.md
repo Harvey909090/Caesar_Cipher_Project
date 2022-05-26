@@ -1,6 +1,6 @@
 ## PROJECT NAME: CAESAR CIPHER PROJECT
 
-## AUTHOR: GEORGE JAVA
+## AUTHOR: William Java
 
 ## DESCRIPTION OF PROJECT
 
@@ -37,7 +37,7 @@ There is currently only the first version of this application.
 
 ## Authors
 
-- **GEORGE JAVA** - _Initial work_
+- **William JAVA** - _Initial work_
 
 ## Contacts
 
@@ -49,5 +49,4 @@ This project is licensed under the MIT License - see the [LICENSE] file for deta
 
 ## Acknowledgments
 
-- GEORGE JAVA
-- Moringa School
+- William JAVA
