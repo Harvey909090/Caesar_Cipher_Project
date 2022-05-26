@@ -25,7 +25,7 @@ https://github.com/Harvey909090/Caesar_Cipher_Project.git
 ## Technology used
 * IntelliJ IDEA
 * Java
-* Git
+* Github
 
 ## Contributing
 
